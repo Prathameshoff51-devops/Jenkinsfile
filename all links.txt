@@ -1,0 +1,61 @@
+k8s iuues - https://github.com/vijay2181/devops-baby-to-boss/blob/main/kubernetes/interview-scenarios/Readme.md
+
+https://github.com/vijay2181/devops-baby-to-boss/blob/main/api/http-codes/Readme.md
+
+--How do you version and promote artifacts across anviromenta to gurentee racebility and push to nexus repository
+
+---what is dynamodb global table in aws
+
+--how to debug docker file commands if imagae is not building?
+
+--what grpc used for
+
+--where to put nodepool file in karpenter eks
+
+--what is amazon vpc cni in eks
+
+--sync time taken by argocd
+--can we reeduce argo cd snyc time from 3 mins
+
+--ec2 module in terraform and how to reuse it
+
+--cni pulgin vs kubeproxy
+url- https://stackoverflow.com/questions/53534553/kubernetes-cni-vs-kube-proxy
+
+--relibility meaning in devops
+
+--what is service discovery in Kubernetes
+
+--irsa in Kubernetes
+
+--how ssl certificate works
+
+--how to set credentials in environment variables in python scripting
+
+--High-Traffic Application Slowing During Peak Hours - what attributes should check to indetify the RCA
+
+--what is coredns in Kubernetes
+
+--whiach type od databse is in dynamo db aws
+
+--deployment yml file with startup rediness and liveness probs
+
+--type of exporter in Prometheus
+
+--what is ami in aws
+
+--what algoritham uses by load balncer
+
+--layers in osi model
+
+--how do you improve the performance in devops
+
+--what info tls has
+
+--how to check lag in network
+
+--how service mesh comunicate between services in k8s
+
+--why we need servicemesh and what if we hav not using servicemesh in k8s?
+
+--
